@@ -9,7 +9,7 @@
 - [Adafruit_BluefruitLE_nRF51 cpp library](https://github.com/adafruit/Adafruit_BluefruitLE_nRF51)
 
 ## Projects
-### LED blinking (Hello World :p)
+### LED blinking
 [hello blink (source)](./hello-blink/)  
 ```c++
 // the setup function runs once when you press reset or power the board
@@ -28,3 +28,4 @@ void loop() {
 ```
 ![Adafruit Feather 32u4 Bluefruit LE](./assets/hello-blink.gif)
 
+### Getting TMP and Battery 
