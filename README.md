@@ -10,7 +10,7 @@
 
 ## Projects
 ### LED blinking (Hello World :p)
-- [hello blink](./hello-blink/)
+[hello blink (source)](./hello-blink/)  
 ```c++
 // the setup function runs once when you press reset or power the board
 void setup() {
@@ -26,5 +26,5 @@ void loop() {
   delay(2000);              // wait for a second
 }
 ```
-- ![Adafruit Feather 32u4 Bluefruit LE](./assets/hello-blink.gif)
+![Adafruit Feather 32u4 Bluefruit LE](./assets/hello-blink.gif)
 
