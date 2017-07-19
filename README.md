@@ -1,7 +1,7 @@
 # Adafruit-Feather-32u4-Bluefruit-LE
 ![Adafruit Feather 32u4 Bluefruit LE](./assets/feather-32u4-ble.jpg)
 
-## Get started
+## Getting started
 - Tools > Boards Manager > Adafruit AVR Boards (Install)  
 - restart editor  
 - Select Adafruit Feather 32u4 board
@@ -9,7 +9,7 @@
 - [Adafruit_BluefruitLE_nRF51 cpp library](https://github.com/adafruit/Adafruit_BluefruitLE_nRF51)
 
 ## Projects
-### LED blinking
+### Blinking LED
 [hello blink (source)](./hello-blink/)  
 ```c++
 // the setup function runs once when you press reset or power the board
