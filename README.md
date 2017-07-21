@@ -29,6 +29,9 @@ void loop() {
 ![Adafruit Feather 32u4 Bluefruit LE](./assets/hello-blink.gif)
 
 ### Soldering
-![Adafruit Feather 32u4 Bluefruit LE](./assets/soldering.jpg)
+![Soldering](./assets/soldering.jpg)
+
+### Adding a temperature sensor
+![TMP sensor](./assets/tmp-sensor.jpg)
 
 ### Getting TMP and Battery 
