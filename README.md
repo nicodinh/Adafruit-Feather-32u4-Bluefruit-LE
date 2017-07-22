@@ -35,3 +35,4 @@ void loop() {
 ![TMP sensor](./assets/tmp-sensor.jpg)
 
 ### Getting TMP and Battery 
+![TMP sensor with battery](./assets/tmp-sensor-battery.jpg)
